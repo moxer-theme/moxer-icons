@@ -1,0 +1,14 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="angular-pipe">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<circle id="Ellipse" cx="8" cy="8" r="8" fill="#212431"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="angular">
+<path id="Shape" d="M8 -3.33333V-3.33333V-3.33333L-2 0.429339L-0.474758 14.3807L8 19.3333V19.3333V19.3333L16.4748 14.3807L18 0.429339L8 -3.33333Z" fill="#81C5DA"/>
+<path id="Shape_2" opacity="0.235224" d="M8 -3.33333V-0.817328V-0.828662V10.652V10.652V19.3333V19.3333L16.4748 14.3807L18 0.429339L8 -3.33333V-3.33333Z" fill="#343944"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M4.59468 11.156L8 3.326L11.3936 11.156H10.1239L9.43936 9.404H6.54894L5.86436 11.156H4.59468ZM8 5.87001L7.00532 8.32401H8.99468L8 5.87001Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
