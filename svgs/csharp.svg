@@ -1,13 +1,15 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="csharp">
+<g id="Group 2">
 <g id="Group">
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
-<circle id="Ellipse" cx="8" cy="8" r="8" fill="#212431"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="14" height="14">
+<circle id="Ellipse" cx="8" cy="8" r="7" fill="#212431"/>
 </mask>
 <g mask="url(#mask0)">
-<circle id="Ellipse_2" cx="8" cy="8" r="8" fill="#2C303F"/>
+<circle id="Ellipse_2" cx="8" cy="8" r="7" fill="#2C303F"/>
 </g>
 </g>
-<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M3.75753 13H5.8549L6.41429 10.1034H8.51166L7.95226 13H10.0496L10.609 10.1034H12.8929V8.61028H10.982L11.3549 6.79993H13.5V5.30676H11.6353L12.241 2.5H10.1899L9.58421 5.30676H7.48685L8.09249 2.5H5.99512L5.43572 5.30676H3.15188V6.79993H5.11052L4.73759 8.61028H2.5V10.1034H4.36466L3.75753 13ZM8.88609 8.61028H6.78872L7.16165 6.79993H9.25902L8.88609 8.61028Z" fill="#6A9FB5"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4.28784 12.375H6.12303L6.61251 9.84052H8.4477L7.95823 12.375H9.79343L10.2829 9.84052H12.2813V8.53399H10.6092L10.9355 6.94994H12.8125V5.64341H11.1809L11.7109 3.1875H9.91612L9.38619 5.64341H7.55099L8.08093 3.1875H6.24573L5.75626 5.64341H3.7579V6.94994H5.47171L5.14539 8.53399H3.1875V9.84052H4.81908L4.28784 12.375ZM8.77533 8.53399H6.94013L7.26644 6.94994H9.10164L8.77533 8.53399Z" fill="#6A9FB5"/>
+</g>
 </g>
 </svg>
