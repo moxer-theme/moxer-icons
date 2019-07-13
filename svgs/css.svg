@@ -1,0 +1,18 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="css">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<circle id="Ellipse" cx="8" cy="8" r="8" fill="#212431"/>
+</mask>
+<g mask="url(#mask0)">
+<circle id="Ellipse_2" cx="8" cy="8" r="8" fill="#2C303F"/>
+<g id="CSS3_logo_and_wordmark">
+<path id="polygon2989" d="M19 -4L16.9957 17.5975L7.98654 20L-0.997866 17.6009L-3 -4H19Z" fill="#3965BD"/>
+<path id="polygon2991" d="M16.9939 17.6071L19 -4H8V20L16.9939 17.6071Z" fill="#7ACCEE"/>
+<path id="polygon2993-path" d="M4.81081 7.07079L4.93347 8.44899H7.99599V7.07079H4.81081Z" fill="white"/>
+<path id="polygon2995-path" d="M7.99599 4.28125H7.99126H4.56435L4.68876 5.65948H7.99599V4.28125Z" fill="white"/>
+<path id="polygon2997-path" d="M7.99599 12.0841V10.6502L7.98999 10.6518L6.46584 10.2373L6.36841 9.13812H5.62779H4.99461L5.18635 11.3021L7.98969 12.0859L7.99599 12.0841Z" fill="white"/>
+<path id="polygon3005-path" d="M9.67646 8.449L9.5176 10.2364L7.99126 10.6513V12.0852L10.7968 11.3021L10.8174 11.0693L11.139 7.44089L11.1724 7.0708L11.4195 4.28125H7.99126V5.65948H9.91966L9.79514 7.0708H7.99126V8.449H9.67646Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
