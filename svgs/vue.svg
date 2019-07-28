@@ -1,5 +1,8 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="vue">
-<path id="Vector" d="M14 3L8 13L2 3H2.97503L8 11.375L13.025 3H14ZM8 5.27406L6.61292 3H4.50903L8 8.81828L11.491 3H9.38708L8 5.27406Z" fill="#B2E4AE"/>
+<g id="Group">
+<path id="Vector" d="M7.99999 6.43897L6.34443 3.83331H3.8138L8 10.7916L12.1894 3.83331H9.65556L7.99999 6.43897Z" fill="#555B77"/>
+<path id="Vector_2" d="M8 12.1666L13 3.83331H11.3333L8 9.24998L4.66667 3.83331H3L8 12.1666Z" fill="#B2E4AE"/>
+</g>
 </g>
 </svg>
