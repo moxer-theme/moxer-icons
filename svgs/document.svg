@@ -1,10 +1,9 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="document">
-<g id="file-text">
-<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M5 2.5C4.60218 2.5 4.22064 2.65804 3.93934 2.93934C3.65804 3.22064 3.5 3.60218 3.5 4V12C3.5 12.3978 3.65804 12.7794 3.93934 13.0607C4.22064 13.342 4.60217 13.5 5 13.5H11C11.3978 13.5 11.7794 13.342 12.0607 13.0607C12.342 12.7794 12.5 12.3978 12.5 12V6C12.5 5.86213 12.4442 5.7373 12.354 5.64685C12.3538 5.64671 12.3537 5.64658 12.3536 5.64645L9.35382 2.64671L9.35355 2.64645C9.25979 2.55268 9.13261 2.5 9 2.5M8.5 3.5H5C4.86739 3.5 4.74021 3.55268 4.64645 3.64645C4.55268 3.74021 4.5 3.86739 4.5 4V12C4.5 12.1326 4.55268 12.2598 4.64645 12.3536C4.74021 12.4473 4.86739 12.5 5 12.5H11C11.1326 12.5 11.2598 12.4473 11.3536 12.3536C11.4473 12.2598 11.5 12.1326 11.5 12V6.5H9C8.72386 6.5 8.5 6.27614 8.5 6V3.5ZM10.7929 5.5L9.5 4.20711V5.5H10.7929Z" fill="#81C5DA"/>
-<path id="Vector" d="M10 8.5H6" stroke="#D491B9" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_2" d="M10 10.5H6" stroke="#D491B9" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_3" d="M7 6.5H6.5H6" stroke="#D491B9" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
+<path id="Rectangle" d="M4 3H9L11 4L12 6V13H4V3Z" fill="#81C5DA"/>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 2.29289C9.51957 2.10536 9.26522 2 9 2H5C4.46957 2 3.96086 2.21071 3.58579 2.58579C3.21071 2.96086 3 3.46957 3 4V12C3 12.5304 3.21071 13.0391 3.58579 13.4142C3.96086 13.7893 4.46957 14 5 14H11C11.5304 14 12.0391 13.7893 12.4142 13.4142C12.7893 13.0391 13 12.5304 13 12V6C13 5.73478 12.8946 5.48043 12.7071 5.29289L9.70711 2.29289ZM12 6.5H9C8.72386 6.5 8.5 6.27614 8.5 6V3H5C4.73478 3 4.48043 3.10536 4.29289 3.29289C4.10536 3.48043 4 3.73478 4 4V12C4 12.2652 4.10536 12.5196 4.29289 12.7071C4.48043 12.8946 4.73478 13 5 13H11C11.2652 13 11.5196 12.8946 11.7071 12.7071C11.8946 12.5196 12 12.2652 12 12V6.5ZM9.5 3.5L11.5 5.5H9.5V3.5Z" fill="#212431"/>
+<path id="Vector" d="M10 8.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M10 10.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M7 6.5H6.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>
