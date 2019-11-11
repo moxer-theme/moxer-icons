@@ -1,9 +1,9 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="document">
-<path id="Rectangle" d="M4 3H9L11 4L12 6V13H4V3Z" fill="#81C5DA"/>
+<path id="Rectangle" d="M4 3H9L11 4L12 6V13H4V3Z" fill="#70E3EB"/>
 <path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 2.29289C9.51957 2.10536 9.26522 2 9 2H5C4.46957 2 3.96086 2.21071 3.58579 2.58579C3.21071 2.96086 3 3.46957 3 4V12C3 12.5304 3.21071 13.0391 3.58579 13.4142C3.96086 13.7893 4.46957 14 5 14H11C11.5304 14 12.0391 13.7893 12.4142 13.4142C12.7893 13.0391 13 12.5304 13 12V6C13 5.73478 12.8946 5.48043 12.7071 5.29289L9.70711 2.29289ZM12 6.5H9C8.72386 6.5 8.5 6.27614 8.5 6V3H5C4.73478 3 4.48043 3.10536 4.29289 3.29289C4.10536 3.48043 4 3.73478 4 4V12C4 12.2652 4.10536 12.5196 4.29289 12.7071C4.48043 12.8946 4.73478 13 5 13H11C11.2652 13 11.5196 12.8946 11.7071 12.7071C11.8946 12.5196 12 12.2652 12 12V6.5ZM9.5 3.5L11.5 5.5H9.5V3.5Z" fill="#212431"/>
-<path id="Vector" d="M10 8.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_2" d="M10 10.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector_3" d="M7 6.5H6.5H6" stroke="#6D6BA5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector" d="M10 8.5H6" stroke="#5654BC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M10 10.5H6" stroke="#5654BC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M7 6.5H6.5H6" stroke="#5654BC" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>
