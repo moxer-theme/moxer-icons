@@ -1,2 +1,1 @@
-# moxer-icons
-The companion file icons you must use with more theme for an immersive experience
+<img src="https://raw.githubusercontent.com/moxer-theme/moxer-icons-code/master/assets/cover.png">
